@@ -1,0 +1,43 @@
+div P {
+    shape-outside: ellipse(40%);
+  width: 400px;
+  height: 200px;
+  float: right;
+}
+  
+  /* div {
+    shape-outside: ellipse(40%);
+    width: 400px;
+    height: 200px;
+    float: left;
+  }  
+
+  div {
+    shape-outside: ellipse(40%);
+    width: 400px;
+    height: 200px;
+    align:left;
+  }
+
+
+  div {
+    shape-outside: ellipse(40%);
+    width: 400px;
+    height: 200px;
+    align: right;
+  }
+
+  div {
+    shape-inside: ellipse(40%);
+    width: 400px;
+    height: 200px;
+    float: left;
+  }
+
+
+  div {
+    shape-inside: ellipse(40%);
+    width: 400px;
+    height: 200px;
+    float: right;
+  } */
